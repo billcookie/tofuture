@@ -4,7 +4,7 @@ An app built in 10 days that allows users to find sustainble investment and supp
 
 
 <br>
-App home: https://www.tofuture.co/
+App home: https://tofuture.fly.dev/
    
 
 ## Getting Started
